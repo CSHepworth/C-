@@ -3,3 +3,13 @@ C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.GeneratedMSBuild
 C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.AssemblyInfoInputs.cache
 C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.AssemblyInfo.cs
 C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.csproj.CoreCompileInputs.cache
+C:\Users\coope\GitHub\Csharp\OOPIntro\bin\Debug\net6.0\OOPIntro.exe
+C:\Users\coope\GitHub\Csharp\OOPIntro\bin\Debug\net6.0\OOPIntro.deps.json
+C:\Users\coope\GitHub\Csharp\OOPIntro\bin\Debug\net6.0\OOPIntro.runtimeconfig.json
+C:\Users\coope\GitHub\Csharp\OOPIntro\bin\Debug\net6.0\OOPIntro.dll
+C:\Users\coope\GitHub\Csharp\OOPIntro\bin\Debug\net6.0\OOPIntro.pdb
+C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.dll
+C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\refint\OOPIntro.dll
+C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.pdb
+C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\OOPIntro.genruntimeconfig.cache
+C:\Users\coope\GitHub\Csharp\OOPIntro\obj\Debug\net6.0\ref\OOPIntro.dll
