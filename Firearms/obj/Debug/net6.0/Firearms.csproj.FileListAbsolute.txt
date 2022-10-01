@@ -1,0 +1,15 @@
+C:\Users\coope\GitHub\Csharp\Firearms\bin\Debug\net6.0\Firearms.exe
+C:\Users\coope\GitHub\Csharp\Firearms\bin\Debug\net6.0\Firearms.deps.json
+C:\Users\coope\GitHub\Csharp\Firearms\bin\Debug\net6.0\Firearms.runtimeconfig.json
+C:\Users\coope\GitHub\Csharp\Firearms\bin\Debug\net6.0\Firearms.dll
+C:\Users\coope\GitHub\Csharp\Firearms\bin\Debug\net6.0\Firearms.pdb
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.csproj.AssemblyReference.cache
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.AssemblyInfoInputs.cache
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.AssemblyInfo.cs
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.csproj.CoreCompileInputs.cache
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.dll
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\refint\Firearms.dll
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.pdb
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\Firearms.genruntimeconfig.cache
+C:\Users\coope\GitHub\Csharp\Firearms\obj\Debug\net6.0\ref\Firearms.dll

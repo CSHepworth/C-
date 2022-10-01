@@ -1,0 +1,5 @@
+C:\Users\coope\GitHub\Csharp\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\coope\GitHub\Csharp\DeckOfCards\obj\Debug\net6.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coope\GitHub\Csharp\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\coope\GitHub\Csharp\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\coope\GitHub\Csharp\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.CoreCompileInputs.cache
