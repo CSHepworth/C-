@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="~/css/style.css">
+@model List<Coupon>
+
+<h1>Welcome @ViewBag.Account.Username</h1>
+@foreach (var coupon in Model)
+{
+    bool useractivated = coupon.CouponActivations.Any(c => c.UserId == ViewBag.Account.UserId);
+    int activationcount = coupon.CouponActivations.Where(c => c.CouponId == coupon.CouponId).ToList().Count;
+
+    <div>
+        <h3>@coupon.Code</h3>
+        <p>Use on: @coupon.Website</p>
+        <p>@coupon.Description</p>
+        <p>@activationcount people have used this</p>
+        @if (coupon.UserId == ViewBag.Account.UserId)
+        {
+            <p>You posted this</p>
+        }
+        else
+        {
+            @if (useractivated == false)
+            {
+                <form method="post" asp-controller="User" asp-action="Activate" asp-route-couponId="@coupon.CouponId">
+                    <button>
+                        <span>I Used this coupon</span>
+                    </button>
+                </form>
+            }
+            else
+            {
+                <p>You used this</p>
+            }
+        }
+        <p>Posted by: @coupon.Creator.Username</p>
+    </div>
+}

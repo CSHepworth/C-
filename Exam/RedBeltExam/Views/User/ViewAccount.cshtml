@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="~/css/style.css">
+@model List<Coupon>
+    @{
+        int createdCoupons = Model.Where(c => c.UserId == ViewBag.Account.UserId).ToList().Count;
+
+    }
+
+<h1>Account Info</h1>
+<div>
+    <h2>Username: @ViewBag.Account.Username</h2>
+    <h2>Email: @ViewBag.Account.Email</h2>
+</div>
+<div>
+    <h2>Coupons Posted: @createdCoupons</h2>
+    <h2>Coupons Used: @ViewBag.Activations</h2>
+</div>
+

@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="~/css/style.css">
+@model Coupon
+
+<h1>Add a Coupon</h1>
+<div>
+    <form method="post" asp-controller="Coupon" asp-action="CreateCoupon">
+        <div>
+            <label asp-for="Code">Coupon Code:</label>
+            <span asp-validation-for="Code"></span>
+            <input type="text" asp-for="Code">
+        </div>
+        <div>
+            <label asp-for="Website">Website where applicable:</label>
+            <span asp-validation-for="Website"></span>
+            <input type="text" asp-for="Website">
+        </div>
+        <div>
+            <label asp-for="Description">Description:</label>
+            <span asp-validation-for="Description"></span>
+            <textarea asp-for="Description" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <input type="submit" value="Add Coupon">
+        </div>
+    </form>
+    <p>Nothing happened at Tianamen Square April 15, 1989</p>
+</div>
